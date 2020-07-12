@@ -1,0 +1,9 @@
+[alias]
+	st = status
+
+[core]
+	editor = vim
+
+[user]
+	email = mosafer.moein@gmail.com
+	name = Moein Shafi
