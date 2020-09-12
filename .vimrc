@@ -34,3 +34,6 @@ set history=1000
 set autoread
 set wildmenu
 set wildmode=longest:list,full
+
+au BufNewFile,BufRead Jenkinsfile setf groovy
+au BufNewFile,BufRead *MIB.txt set filetype=mib
